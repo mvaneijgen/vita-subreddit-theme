@@ -534,7 +534,21 @@
 		}
 
 		.loggedin .logout a {background-position: -16px -0px;}
-
+		
+		.side:after {
+					display: block;
+					margin: 10px 0px;
+					padding: 10px 0px;
+					color: #5B92FA;
+					content: "CSS Theme via /r/Naut";
+					text-transform: none;
+					font-size: 16px;
+					font-family: arial,sans-serif;
+					position: absolute;
+					width: 300px;
+					text-align: center;
+					right: 16px;
+				}
 
 		/* Search */
 		#search {

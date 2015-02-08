@@ -17,4 +17,4 @@ It is /r/vita that hooked me to Reddit, it is the frist subreddit I followed. So
 A live demo can be found at [/r/vitabymvaneijgen](http://reddit.com/r/vitabymvaneijgen)
 
 
-The theme is based on [/r/Naut](http://reddit.com/r/Naut) and thanks [/u/Cryptonaut](http://reddit.com/u/Cryptonaut)[Github](https://github.com/Axel--/Naut-for-reddit) for providing the assets.
+The theme is based on [/r/Naut](http://reddit.com/r/Naut) and thanks [/u/Cryptonaut](http://reddit.com/u/Cryptonaut) [(Github)](https://github.com/Axel--/Naut-for-reddit) for providing the assets.
