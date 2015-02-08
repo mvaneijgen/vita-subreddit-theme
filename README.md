@@ -1,2 +1,1 @@
-# vita-subreddit-theme
-I designed for /r/vita and can be found here /r/vitabymvaneijgen
+This is a theme I designed for /r/vita and can be found here /r/vitabymvaneijgen. It is designed with readability in mind and finding content more easy. The theme is inspired by /r/Naut and thanks /u/Cryptonaut for providing the assets. 
